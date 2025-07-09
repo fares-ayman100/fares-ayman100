@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fares Ayman</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-- 🌱 I’m currently learning **FLUTTER Development**
+- 🌱 I’m currently learning **Flutter Development**
 
 - 💬 Ask me about **anything**
 
