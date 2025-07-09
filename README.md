@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/fares-ayman1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fares-ayman-a213552b2" height="30" width="40" /></a>
 <a href="https://t.me/fares_ayman1" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="https://t.me/fares_ayman1" height="30" width="40" /></a>
-<a href="fares_ayman.1" target="_blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="fares_ayman.1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠Languages and Tools:</h3>
