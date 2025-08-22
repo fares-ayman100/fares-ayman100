@@ -25,6 +25,7 @@
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://learning.postman.com/docs/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fares-ayman100&show_icons=true&locale=en&layout=compact&title_color=ffffff&theme=tokyonight" alt="fares-ayman100" />
