@@ -4,7 +4,7 @@
 ## 👩‍💻 About Me
 - 🎓 I'm Fares Ayman, a third year student at Faculty of Computer and Information Science – MU  
 - ✍️ Currently, I’m focusing on learning **Backend development with Node.js**  
-- 💻 I enjoy working with **JavaScript**, **Node.js**, and **Databases**
+- 💻 I enjoy working with **JavaScript**, **Node.js**, **Express** and **MongoDB**
 - 💡 I have experience in **Flutter** and have built several projects using it 
 - ⚡ Fun fact: **Always Learning**  
 
