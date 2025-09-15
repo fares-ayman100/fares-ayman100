@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fares Ayman</h1>
-<h3 align="center">A Passionate Flutter Developer</h3> 
+<h3 align="center">Backend Developer (Node JS)</h3> 
 
 ## 👩‍💻 About Me
 - 🎓 I'm Fares Ayman, a third year student at Faculty of Computer and Information Science – MU  
