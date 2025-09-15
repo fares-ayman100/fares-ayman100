@@ -13,7 +13,6 @@
 
 
 ## 🛠 Languages & Tools:
-
 <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 <a href="https://nodejs.org/en/docs/"><img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>  
@@ -27,7 +26,6 @@
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://learning.postman.com/docs/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fares-ayman100&show_icons=true&locale=en&layout=compact&title_color=ffffff&theme=tokyonight" alt="fares-ayman100" />
 </p>
